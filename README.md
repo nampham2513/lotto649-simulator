@@ -45,6 +45,11 @@ This application is built using the following frameworks/libraries.
 - [React.js](https://reactjs.org/)
 - [Material UI](https://mui.com/)
 
+```sh
+npm install create-react-app
+npm install @mui/icons-material
+```
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
